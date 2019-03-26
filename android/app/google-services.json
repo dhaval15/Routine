@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1059026611212",
+    "firebase_url": "https://routine-e8a4e.firebaseio.com",
+    "project_id": "routine-e8a4e",
+    "storage_bucket": "routine-e8a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059026611212:android:cc73f316b31f16b5",
+        "android_client_info": {
+          "package_name": "com.infinity.routine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059026611212-fjv5jeq1f624ahqg9tmmgeq37oeon448.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlgFqVjf4zOlU-56UZpAkIIZDW30g29r8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
